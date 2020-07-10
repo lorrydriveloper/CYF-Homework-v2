@@ -1,0 +1,8 @@
+{
+  "name": "central-repo",
+  "version": "1.0.0",
+  "description": "Central repository for all the new exercises",
+  "repository": "git@github.com:lorrydriveloper/CYF-Homework-v2.git",
+  "author": "lorryDriveloper",
+  "license": "MIT"
+}
