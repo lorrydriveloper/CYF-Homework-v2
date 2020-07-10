@@ -1,3 +1,6 @@
 [submodule "Basic-Config"]
 	path = Basic-Config
 	url = git@github.com:lorrydriveloper/Basic-Config.git
+[submodule "js-introduction-to-map"]
+	path = js-introduction-to-map
+	url = git@github.com:lorrydriveloper/js-introduction-to-map.git
