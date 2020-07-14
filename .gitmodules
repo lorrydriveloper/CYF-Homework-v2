@@ -4,3 +4,6 @@
 [submodule "js-introduction-to-map"]
 	path = js-introduction-to-map
 	url = git@github.com:lorrydriveloper/js-introduction-to-map.git
+[submodule "Week-1-Homework"]
+	path = week-1-homework
+	url = git@github.com:lorrydriveloper/week-1-homework.git
